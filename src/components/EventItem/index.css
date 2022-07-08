@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.list-container {
+  list-style-type: none;
+  margin: 10px;
+}
+.image-url {
+  width: 240px;
+}
+.name {
+  font-family: 'Roboto';
+  color: #f8fafc;
+  font-size: 16px;
+}
+.location {
+  font-family: 'Roboto';
+  color: #f8fafc;
+  font-size: 13px;
+}
+.active-image {
+  border: 1px solid #2dd4bf;
+}
+.button {
+  border: none;
+  background-color: transparent;
+}

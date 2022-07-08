@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.container {
+  min-height: 100vh;
+  display: flex;
+  padding-left: 40px;
+  width: 80%;
+  box-shadow: 0px 4px 16px 0px #bfbfbfbf;
+}
+.event-container {
+  background-color: #323f4b;
+  width: 50%;
+  padding-top: 20px;
+  flex-shrink: 0;
+}
+.event-heading {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 26px;
+  padding-left: 48px;
+}
+.event-list-container {
+  display: flex;
+  flex-wrap: wrap;
+}
