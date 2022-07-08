@@ -15,7 +15,7 @@ const EventItem = props => {
       <button type="button" className="button" onClick={onClickEvent}>
         <img src={imageUrl} alt="event" className={activeImage} />
       </button>
-      <h1 className="name">{name}</h1>
+      <p className="name">{name}</p>
       <p className="location">{location}</p>
     </li>
   )

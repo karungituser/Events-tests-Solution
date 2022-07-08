@@ -25,9 +25,9 @@ const ActiveEventRegistrationDetails = props => {
         alt="registered"
         className="registered-image"
       />
-      <p className="registered-description">
+      <h1 className="registered-description">
         You have already registered for the event
-      </p>
+      </h1>
     </div>
   )
 
